@@ -1,0 +1,10 @@
+Didžiausias draugystės taškų skaičius: 109.200
+
+Svečių sąrašas: 
+Jonas               41.200    
+Ignas               7.200     
+Julius              30.000    
+Darius              12.100    
+Antanas             1.100     
+Andrius             17.600    
+

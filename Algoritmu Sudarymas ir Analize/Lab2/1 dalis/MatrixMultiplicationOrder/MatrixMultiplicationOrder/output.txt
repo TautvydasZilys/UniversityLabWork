@@ -1,0 +1,2 @@
+Mažiausias sandaugų skaičius: 15125
+Daugybos tvarka: (({30; 35} * ({35; 15} * {15; 5})) * (({5; 10} * {10; 20}) * {20; 25}))
