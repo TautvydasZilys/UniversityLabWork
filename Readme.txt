@@ -1,0 +1,1 @@
+This repository contains various coding exercises from my university years.
